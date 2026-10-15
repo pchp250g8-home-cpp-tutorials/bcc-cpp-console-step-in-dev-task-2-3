@@ -1,0 +1,12 @@
+A freight elevator recorded the floors where it stopped; then the log
+ended with 0. The number 0 is not a floor. Count how many times
+the elevator changed direction of travel (from up to down or the
+other way around). If the same floor appears several times in a row,
+that does not count as a change of direction.
+
+Грузовой лифт записал этажи, на которых останавливался, а
+затем запись завершилась числом 0. Число 0 не является
+этажом. Подсчитай, сколько раз лифт менял направление
+движения (с «вверх» на «вниз» или наоборот). Если подряд
+встречаются одинаковые этажи, это не считается сменой
+направления.
